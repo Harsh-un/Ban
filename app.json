@@ -8,12 +8,12 @@
          "Group",
          "Telegram"         
       ],   
-   "repository": "https://github.com/DAXXTEAM/BanAllBot",
+   "repository": "https://github.com/un-bots/ban3",
    "stack": "heroku-20",
    "addons": [
       {
          "options": {
-            "version": "12"
+            "version": "15"
          },
          "plan": "heroku-postgresql"
       }
