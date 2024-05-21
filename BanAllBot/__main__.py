@@ -32,7 +32,7 @@ HELP_MSG="""
 
 ⨷/unpinall : ᴜɴᴘɪɴ ᴀʟʟ ᴍᴇssᴀɢᴇs ɪɴ ᴀ ɢʀᴏᴜᴘ.
 
-ᴄʀᴇᴀᴛᴇᴅ ʙʏ: [ʜᴀʀsʜᴀ🗿](https://t.me/kira_suport)
+ᴄʀᴇᴀᴛᴇᴅ ʙʏ: [ᴜɴᴋɴᴏᴡɴ 🗿](https://t.me/+Wk7482aqoCcwODM1)
 """
 
 
