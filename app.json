@@ -8,7 +8,7 @@
          "Group",
          "Telegram"         
       ],   
-   "repository": "https://github.com/un-bots/ban3",
+   "repository": "https://github.com/harsh-un/ban",
    "stack": "heroku-20",
    "addons": [
       {
